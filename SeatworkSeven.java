@@ -18,7 +18,7 @@ public class SeatworkSeven {
 																																																	                break;
 																																																					            default:
 																																																								                System.out.println("Invalid grade");
-																																																												        }
+																																																												        
 																																																														        System.out.println("Your grade is " + grade);
 																																																																    }
 																																																																	}
