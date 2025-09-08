@@ -1,19 +1,19 @@
-public class SeatworkSeven {
+public class SeatworkEight {
 	    public static void main(String args[]) {
-		        char grade = 'C';
+		        int grade = 3;
 
 				        switch (grade) {
-						            case 'A':
+						            case 1:
 									                System.out.println("Excellent!");
 													                break;
-																	            case 'B':
-																				            case 'C':
+																	            case 2:
+																				            case 3:
 																							                System.out.println("Well done");
 																											                break;
-																															            case 'D':
+																															            case 4:
 																																		                System.out.println("You passed");
 																																						                break;
-																																										            case 'F':
+																																										            case 5:
 																																													                System.out.println("Better try again");
 																																																	                break;
 																																																					            default:
@@ -21,6 +21,6 @@ public class SeatworkSeven {
 																																																												        
 																																																														        System.out.println("Your grade is " + grade);
 																																																																    }
-																																																																	}
+																																																																	} 
 }
     
